@@ -146,6 +146,7 @@ text-align: center;
 @media screen and (max-width: 992px) {
     .loginTitle p {
         max-width: 100% !important;
+        font-size: 12px;
     }
     .loginTitleBotton {
         max-width: 100% !important;
